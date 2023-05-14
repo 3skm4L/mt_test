@@ -1,0 +1,15 @@
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\MTDataAccess.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\MTDataAccess.pdb
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Security.Permissions.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Security.Permissions.xml
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\obj\Debug\MTDataAccess.csproj.AssemblyReference.cache
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\obj\Debug\MTDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\obj\Debug\MTDataAccess.csproj.CopyComplete
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\obj\Debug\MTDataAccess.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\Core\MTDataAccess\obj\Debug\MTDataAccess.pdb

@@ -1,0 +1,6 @@
+C:\Users\bakty\Documents_local\job applications\asessments\.net\DB\bin\Debug\MultiTracksDB.dacpac
+C:\Users\bakty\Documents_local\job applications\asessments\.net\DB\bin\Debug\Assessment.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\DB\bin\Debug\Assessment.pdb
+C:\Users\bakty\Documents_local\job applications\asessments\.net\DB\obj\Debug\MultiTracksDB.sqlproj.AssemblyReference.cache
+C:\Users\bakty\Documents_local\job applications\asessments\.net\DB\obj\Debug\Assessment.dll
+C:\Users\bakty\Documents_local\job applications\asessments\.net\DB\obj\Debug\Assessment.pdb
